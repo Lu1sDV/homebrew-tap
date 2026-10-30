@@ -2,7 +2,6 @@
 class Wafme0w < Formula
   desc "Identify WAF fingerprints in HTTP responses or saved captures"
   homepage "https://github.com/Lu1sDV/wafme0w"
-  version "2.0.0"
   license "MIT"
 
   on_macos do
