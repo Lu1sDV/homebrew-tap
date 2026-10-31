@@ -1,4 +1,4 @@
-# Generated from verified release v3.0.0, source b41e7d862be23ef71e8dc461558e17828ac32220.
+# Generated from verified release v3.0.1, source 70d33356e7c7b4998f4dce01ee300703c229ef1d.
 class Wafmeow < Formula
   desc "Identify WAF fingerprints in HTTP responses or saved captures"
   homepage "https://github.com/Lu1sDV/wafmeow"
@@ -6,23 +6,23 @@ class Wafmeow < Formula
 
   on_macos do
     on_arm do
-      url "https://github.com/Lu1sDV/wafmeow/releases/download/v3.0.0/wafmeow_v3.0.0_darwin_arm64.tar.gz"
-      sha256 "256e0df4a905a2f0e6a84262c90602b371508cb01a62cbe5d40ffda94df99920"
+      url "https://github.com/Lu1sDV/wafmeow/releases/download/v3.0.1/wafmeow_v3.0.1_darwin_arm64.tar.gz"
+      sha256 "08b9e9e69277a7a5b340f91ec59c454a71dace4d8d470179fbfaeb89016f7248"
     end
     on_intel do
-      url "https://github.com/Lu1sDV/wafmeow/releases/download/v3.0.0/wafmeow_v3.0.0_darwin_amd64.tar.gz"
-      sha256 "236d4083400a0f98bbb421588f3bc5da7c2a79ef65f15ab5f6ae902dff9b5d0c"
+      url "https://github.com/Lu1sDV/wafmeow/releases/download/v3.0.1/wafmeow_v3.0.1_darwin_amd64.tar.gz"
+      sha256 "c62ea62bc7ce735eb8385da9c9c3181dfb6c713a62d3ee7f983c2ce4163f1eff"
     end
   end
 
   on_linux do
     on_arm do
-      url "https://github.com/Lu1sDV/wafmeow/releases/download/v3.0.0/wafmeow_v3.0.0_linux_arm64.tar.gz"
-      sha256 "cd71c86224ad429f53d05269dc70e9acc3391ae045c5f48e7551f7aa4c178b54"
+      url "https://github.com/Lu1sDV/wafmeow/releases/download/v3.0.1/wafmeow_v3.0.1_linux_arm64.tar.gz"
+      sha256 "d59fe164ef3a25acaf8d9349445da180d1c1107a086722d0711901f5f8de1f6a"
     end
     on_intel do
-      url "https://github.com/Lu1sDV/wafmeow/releases/download/v3.0.0/wafmeow_v3.0.0_linux_amd64.tar.gz"
-      sha256 "7a317f567e82dbadfaf62b40b6d27a1e3c32b03d5112f19bc5e1b210ce4f176e"
+      url "https://github.com/Lu1sDV/wafmeow/releases/download/v3.0.1/wafmeow_v3.0.1_linux_amd64.tar.gz"
+      sha256 "72543efbe29f8a7e020cd84a1f7e05c2743b5b547466454049e44ee80b8af6e3"
     end
   end
 
